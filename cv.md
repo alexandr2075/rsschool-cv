@@ -26,7 +26,9 @@ function lovefunc(flower1, flower2){
 }
 ```
 
-6. Work experience [1](https://github.com/alexandr2075/ratio/tree/main/module1)
+6. Work experience
+
+[1](https://github.com/alexandr2075/ratio/tree/main/module1)
 
 7. Education:
 
