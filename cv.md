@@ -18,19 +18,18 @@
 
 5. Codewars:
 
-````function lovefunc(flower1, flower2){
-  // moment of truth
+```function lovefunc(flower1, flower2){
   if(flower1 % 2 == 0 && flower2 % 2 != 0 || flower1 % 2 != 0 && flower2 % 2 == 0) {
     return true
   } else {return false}
-}```
+}
+```
 
-6) Work experience [1](https://github.com/alexandr2075/ratio/tree/main/module1)
+6. Work experience [1](https://github.com/alexandr2075/ratio/tree/main/module1)
 
-7) Education:
-    * HTML Academy
-    * FreeCodeCamp
+7. Education:
 
-8) English level - A1
+   - HTML Academy
+   - FreeCodeCamp
 
-````
+8. English level - A1
